@@ -11,10 +11,11 @@
   },
   "dependencies": {
     "@mantine/core": "^8.3.6",
+    "@mantine/form": "^8.3.6",
     "@mantine/hooks": "^8.3.6",
     "@primer/octicons-react": "^19.20.0",
-    "react": "^19.1.1",
-    "react-dom": "^19.1.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "swr": "^2.3.6"
   },
   "devDependencies": {
