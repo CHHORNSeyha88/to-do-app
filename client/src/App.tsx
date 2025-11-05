@@ -1,6 +1,5 @@
 import { MantineProvider, Box, List, ThemeIcon } from '@mantine/core';
 import useSWR from 'swr';
-import './App.css';
 import AddTodo from "../components/AddTodo";
 import type { ToDo } from "../types/Todo";
 import { CheckCircleFillIcon } from '@primer/octicons-react';
